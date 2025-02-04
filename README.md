@@ -1,3 +1,16 @@
+# First attempt at reactTS used learned alot from the internet and gpt
+Not pretty, I wanted to focus on learning. Did this 1/27/25
+
+## Homepage displaying top Manga:
+![image](https://github.com/user-attachments/assets/04640cf8-0d43-4c63-a9e1-e149dde56d92)
+
+## Extra API fetched info:
+![image](https://github.com/user-attachments/assets/7042d502-8520-49f0-a74d-94b8d62fc58a)
+
+## Search:
+![image](https://github.com/user-attachments/assets/443aea39-1a5e-4372-9e74-6fedba00e889)
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
